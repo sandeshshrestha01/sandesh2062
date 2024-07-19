@@ -9622,6 +9622,11 @@ textarea.form-control {
       color: #000000;
       font-style: italic; }
 
+      .cover{
+      
+        text-align: center;
+      }
+
 #ftco-loader {
   position: fixed;
   width: 96px;
